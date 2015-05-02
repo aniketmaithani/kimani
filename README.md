@@ -12,3 +12,6 @@ Using the following you can easily generate JSON dump for your blog
 - Relative Path Scheme
 - Easy to Use! 
 
+
+
+Created with <3 
