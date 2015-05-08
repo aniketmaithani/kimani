@@ -1,0 +1,9 @@
+setup.py
+xml2json.py
+test/test_xml2json.py
+xml2json.egg-info/PKG-INFO
+xml2json.egg-info/SOURCES.txt
+xml2json.egg-info/dependency_links.txt
+xml2json.egg-info/entry_points.txt
+xml2json.egg-info/requires.txt
+xml2json.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: xml2json
+Version: 0.1
+Summary: Python script converts XML to JSON or the other way around
+Home-page: http://github.com/hay/xml2json
+Author: Hay Kranen
+Author-email: huskyr@gmail.com
+License: LICENSE
+Description: UNKNOWN
+Keywords: xml json
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
